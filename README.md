@@ -87,6 +87,20 @@ Most of my time goes into creating content — code is just the newest medium.
 
 ---
 
+### 🏢 Organizations
+
+<div align="center">
+
+| Org | Project | Description | Tech |
+|:----|:--------|:------------|:-----|
+| [**Embercore Labs**](https://github.com/embercore-labs) | [embercore](https://github.com/embercore-labs/embercore) | Open-source AI marketing agent toolkit — local-first, BYOK, MCP-native | `Go` |
+| [**Fluidiety**](https://github.com/Fluidiety) | [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) | SSR-safe, framework-agnostic responsive toolkit | `TypeScript` |
+| | [fluidity-ts-demo](https://github.com/Fluidiety/fluidity-ts-demo) | Live Vite + React demo of fluidity-ts | `TypeScript` |
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamish-max&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff" alt="Activity Graph" width="100%" />
