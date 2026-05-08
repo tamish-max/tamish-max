@@ -44,12 +44,12 @@ Most of my time goes into creating content — code is just the newest medium.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamish-max&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats-nu-mauve-12.vercel.app/api?username=tamish-max&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="170" />
 <img src="https://streak-stats.demolab.com?user=tamish-max&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub Streak" height="170" />
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tamish-max&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats-nu-mauve-12.vercel.app/api/top-langs/?username=tamish-max&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" height="150" />
 
 </div>
 
