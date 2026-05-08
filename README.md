@@ -76,11 +76,12 @@ Most of my time goes into creating content — code is just the newest medium.
 
 <div align="center">
 
-[![Herald](https://github-readme-stats.vercel.app/api/pin/?username=tamish-max&repo=herald-releases&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/tamish-max/herald-releases)
-[![Skill Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=tamish-max&repo=Skill-Marketplace&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/tamish-max/Skill-Marketplace)
-
-[![Frequency Game](https://github-readme-stats.vercel.app/api/pin/?username=tamish-max&repo=frequency-game&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/tamish-max/frequency-game)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tamish-max&repo=Portfolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/tamish-max/Portfolio)
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**Herald**](https://github.com/tamish-max/herald-releases) | AI-CMO — multi-agent product launch pipeline | `Go` `MCP` |
+| [**Skill Marketplace**](https://github.com/tamish-max/Skill-Marketplace) | Platform for trading skills | `TypeScript` |
+| [**Frequency Game**](https://github.com/tamish-max/frequency-game) | Interactive frequency-based game | `CSS` `HTML` |
+| [**Portfolio**](https://github.com/tamish-max/Portfolio) | Personal portfolio site | `HTML` |
 
 </div>
 
